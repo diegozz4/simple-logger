@@ -10,7 +10,7 @@
   },
   "author": "Diego Osorio <dosorio4@outlook.com>",
   "license": "LICENCED",
-  "private": true,
+  "private": false,
   "config": {
     "yarn": true
   },

@@ -1,7 +1,7 @@
 # Simple Logger 📝
 
 [![Version](https://img.shields.io/npm/v/simple-logger.svg)](https://www.npmjs.com/package/simple-logger)
-[![License](https://img.shields.io/npm/l/simple-logger.svg)](https://github.com/tu-usuario/simple-logger/blob/main/LICENSE)
+<!-- [![License](https://img.shields.io/npm/l/simple-logger.svg)](https://github.com/tu-usuario/simple-logger/blob/main/LICENSE) -->
 
 Simple Logger is an easy to use logging library for JavaScript and Typescript, more focused for nodejs or wherever you want to use it, no third party libraries needed.
 
