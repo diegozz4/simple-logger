@@ -1,0 +1,21 @@
+{
+  "name": "simple-logger",
+  "version": "1.0.0",
+  "description": "Beautifull logger colorized",
+  "main": "dist/logger.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/logger.js",
+    "dev" : "nodemon logger.ts"
+  },
+  "author": "Diego Osorio <dosorio4@outlook.com>",
+  "license": "LICENCED",
+  "private": true,
+  "config": {
+    "yarn": true
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^18.15.11"
+  }
+}
